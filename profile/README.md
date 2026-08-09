@@ -1,6 +1,6 @@
 # Compiler Labs
 
-A place for programming language development.
+A place for programming language development & other fun projects.
 
 ### Docs
 
